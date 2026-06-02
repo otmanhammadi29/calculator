@@ -1,0 +1,6 @@
+{
+  "name": "Apex Fuel",
+  "description": "A premium futuristic supplement e-commerce website with editorial design, dark theme, and high-converting performance features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
